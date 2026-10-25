@@ -8,6 +8,7 @@ Vollkorn
 
 ## Скриншот
 
+![Описание скриншота](images/image.png)
 images/image.png
 
 ## Автор
