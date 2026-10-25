@@ -212,19 +212,20 @@ body {
   position: absolute;
   font-size: 32px;
   font-weight: 400;
-  margin-top: 490px;
-  margin-left: 400px;
+  margin-top: 500px;
+  margin-left: 390px;
   color: #fffbe6;
   z-index: 4;
   max-width: 40ch;
   line-height: 1.2;
+  white-space: nowrap;
 }
 .text3 {
   position: absolute;
   font-size: 32px;
   font-weight: 400;
   margin-top: 675px;
-  margin-left: 400px;
+  margin-left: 390px;
   color: #fffbe6;
   z-index: 4;
   max-width: 35ch;
