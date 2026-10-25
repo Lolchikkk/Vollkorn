@@ -229,7 +229,7 @@ body {
 }
 .bayan {
   position: absolute;
-  margin-top: 350px;
+  margin-top: 450px;
   margin-left: 200px;
 }
 .doska10 {
@@ -239,7 +239,7 @@ body {
   height: 98.99px;
   position: absolute;
   margin-left: 200px;
-  margin-top: 1030px;
+  margin-top: 1100px;
   z-index: 2;
 }
 .span1 {
@@ -300,10 +300,366 @@ body {
   position: absolute;
   width: 1440px;
   background-color: #09abd4;
-  height: 500px;
+  height: 1059px;
 }
 .circlemolochny2 {
   position: absolute;
   z-index: 1;
-  margin-top: 1050px;
+  margin-top: 1100px;
+}
+.bayantext {
+  position: absolute;
+  margin-top: 500px;
+  font-size: 64px;
+}
+.l1 {
+  display: inline-block;
+  rotate: 55deg;
+  font-style: italic;
+  font-weight: 400;
+  margin-left: 72px;
+  margin-top: 100px;
+}
+.l2 {
+  display: inline-block;
+  rotate: 60deg;
+  font-style: italic;
+  font-weight: 500;
+  margin-left: -130px;
+  margin-top: -50px;
+  position: absolute;
+  white-space: nowrap;
+}
+.l3 {
+  display: inline-block;
+  rotate: 65deg;
+  font-style: italic;
+  font-weight: 600;
+  margin-left: 0px;
+  margin-top: -120px;
+  position: absolute;
+  white-space: nowrap;
+}
+.l4 {
+  display: inline-block;
+  rotate: 70deg;
+  font-style: italic;
+  font-weight: 700;
+  margin-left: 130px;
+  margin-top: -170px;
+  position: absolute;
+  white-space: nowrap;
+}
+.l5 {
+  display: inline-block;
+  rotate: 75deg;
+  font-style: italic;
+  font-weight: 800;
+  margin-left: 200px;
+  margin-top: -220px;
+  position: absolute;
+  white-space: nowrap;
+}
+.l6 {
+  display: inline-block;
+  rotate: 85deg;
+  font-style: italic;
+  font-weight: 900;
+  margin-left: 330px;
+  margin-top: -240px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.r1 {
+  display: inline-block;
+  rotate: -85deg;
+  font-style: normal;
+  font-weight: 900;
+  margin-left: 480px;
+  margin-top: -220px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.r2 {
+  display: inline-block;
+  rotate: -75deg;
+  font-style: normal;
+  font-weight: 800;
+  margin-left: 550px;
+  margin-top: -240px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.r3 {
+  display: inline-block;
+  rotate: -70deg;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 720px;
+  margin-top: -160px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.r4 {
+  display: inline-block;
+  rotate: -65deg;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: 780px;
+  margin-top: -170px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.r5 {
+  display: inline-block;
+  rotate: -60deg;
+  font-style: normal;
+  font-weight: 500;
+  margin-left: 900px;
+  margin-top: -80px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.r6 {
+  display: inline-block;
+  rotate: -55deg;
+  font-style: normal;
+  font-weight: 400;
+  margin-left: 990px;
+  margin-top: 20px;
+  position: absolute;
+  white-space: nowrap;
+  z-index: 2;
+}
+.planes {
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 50px;
+}
+.country {
+  font-size: 64px;
+  position: absolute;
+  text-align: center;
+  font-weight: 600;
+  color: #fffbe6;
+  opacity: 0.5;
+  width: 1340px;
+  margin-top: 100px;
+  margin-left: 50px;
+  line-height: 89px;
+}
+.circlemolochny3 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 917px;
+}
+.planetext1 {
+  font-size: 64px;
+  position: absolute;
+  margin-top: 300px;
+  color: black;
+  margin-left: 600px;
+  font-weight: 600;
+  rotate: -4deg;
+}
+.planetext2 {
+  font-size: 64px;
+  position: absolute;
+  color: black;
+  margin-top: 580px;
+  font-weight: 600;
+  margin-left: 440px;
+  rotate: 5deg;
+}
+.section6 {
+  width: 1440px;
+  position: absolute;
+  height: 1066px;
+  margin-top: 1066px;
+}
+.bigk {
+  font-size: 674px;
+  font-weight: 600;
+  color: #326f13;
+  text-align: center;
+  margin-top: 100px;
+  z-index: 2;
+}
+.pomidor1 {
+  position: absolute;
+  margin-top: -320px;
+  margin-left: 780px;
+  z-index: -1;
+}
+.pomidor2 {
+  position: absolute;
+  margin-top: -710px;
+  margin-left: 490px;
+  z-index: -1;
+}
+.cucumber1 {
+  position: absolute;
+  margin-left: 72px;
+  margin-top: -500px;
+}
+.cucumber2 {
+  position: absolute;
+  margin-left: 509px;
+  margin-top: -30px;
+}
+.cucumber3 {
+  position: absolute;
+  margin-left: 955px;
+  margin-top: -500px;
+}
+.textcucumber3 {
+  font-size: 24px;
+  color: #fffbe6;
+  text-align: center;
+  margin-top: -95px;
+  font-weight: 400;
+}
+.textcucumber2 {
+  font-size: 24px;
+  color: #fffbe6;
+  text-align: center;
+  margin-top: -95px;
+  font-weight: 400;
+}
+.textcucumber1 {
+  font-size: 24px;
+  color: #fffbe6;
+  text-align: center;
+  margin-top: -95px;
+  font-weight: 400;
+}
+.kline1 {
+  position: absolute;
+  margin-top: -575px;
+  z-index: 2;
+  margin-left: 510px;
+}
+.kline2 {
+  position: absolute;
+  margin-top: -155px;
+  z-index: 2;
+  margin-left: 830px;
+}
+.kline3 {
+  position: absolute;
+  margin-top: -625px;
+  z-index: 2;
+  margin-left: 930px;
+}
+.section7 {
+  width: 1440px;
+  height: 1256px;
+  background-color: #8a6f64;
+  position: absolute;
+  margin-top: 2100px;
+}
+.circlemolochny4 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 150px;
+}
+.traktor1 {
+  margin-left: 50px;
+  margin-top: -75px;
+}
+.circlemolochny5 {
+  position: absolute;
+  z-index: 1;
+  margin-top: -330px;
+}
+.alphabet1 {
+  font-size: 64px;
+  font-weight: 600;
+  color: #fffbe6;
+  text-align: center;
+  margin-top: 150px;
+  position: absolute;
+  width: 461px;
+  margin-left: 489px;
+  line-height: 89px;
+}
+.alphabet2 {
+  font-size: 64px;
+  font-weight: 600;
+  color: #fffbe6;
+  text-align: center;
+  margin-top: 550px;
+  position: absolute;
+  width: 461px;
+  margin-left: 489px;
+  line-height: 89px;
+}
+.numbers {
+  font-size: 64px;
+  font-weight: 600;
+  color: #fffbe6;
+  text-align: center;
+  margin-top: 950px;
+  position: absolute;
+  width: 461px;
+  margin-left: 489px;
+  line-height: 89px;
+}
+.section8 {
+  width: 1440px;
+  height: 530px;
+  background-color: #fffbe6;
+  position: absolute;
+  margin-top: 3350px;
+}
+.grass2 {
+  margin-top: 350px;
+}
+.flowers2 {
+  margin-top: -150px;
+  text-align: center;
+}
+.doska52 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 250px;
+  z-index: 1;
+  margin-left: 850px;
+  margin-top: -245px;
+  z-index: 0;
+}
+.doska67 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 250px;
+  z-index: 1;
+  margin-left: 550px;
+  margin-top: -245px;
+  z-index: 0;
+}
+.doskagreen {
+  width: 945.51px;
+  height: 323px;
+  background-color: #326f13;
+  border-radius: 43.86px;
+  margin-left: 247px;
+  margin-top: -537px;
+  z-index: 1;
+  position: absolute;
+}
+.podval {
+  font-size: 64px;
+  color: #fffbe6;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 50px;
+  line-height: 75px;
 }
