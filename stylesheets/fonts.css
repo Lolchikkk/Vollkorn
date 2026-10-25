@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-Regular_0.ttf) format(truetype);
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-Italic.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-Medium_0.ttf) format(truetype);
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-MediumItalic_0.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-SemiBold.ttf) format(truetype);
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-SemiBoldItalic.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-Bold_0.ttf) format(truetype);
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-BoldItalic_0.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-ExtraBold.ttf) format(truetype);
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-ExtraBoldItalic.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-Black.ttf) format(truetype);
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Vollkorn";
+  src: url(../fonts/Vollkorn-BlackItalic.ttf) format(truetype);
+  font-style: italic;
+  font-weight: 900;
+}

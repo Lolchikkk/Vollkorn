@@ -1,3 +1,309 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  width: 1440px;
+  display: block;
+  margin: 0 auto;
+  background-color: #fffbe6;
+  font-family: Vollkorn;
+}
+.section1 {
+  width: 1440px;
+  height: 270px;
+  background-color: #09abd4;
+  position: relative;
+}
+.birds {
+  text-align: center;
+}
+.section2 {
+  width: 1440px;
+  height: 781px;
+  background-color: #fffbe6;
+  position: relative;
+}
+.sign {
+  background-color: #326f13;
+  width: 805px;
+  height: 275px;
+  position: absolute;
+  border-radius: 37.34px;
+  margin-left: 317px;
+  margin-top: 24px;
+  z-index: 3;
+}
+
+.signinsign {
+  width: 436px;
+  height: 84px;
+  background-color: #fffbe6;
+  border-radius: 10px;
+  margin-top: 21px;
+  margin-left: 185px;
+}
+.vollkorn1 {
+  text-align: center;
+  margin-top: 30px;
+}
+.textinsignsign {
+  color: #326f13;
+  font-size: 48px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 80%;
+  padding: 8px;
+}
+.seno {
+  position: absolute;
+  margin-top: 100px;
+  z-index: 1;
+}
+.grass {
+  position: absolute;
+  margin-top: 340px;
+  z-index: 0;
+}
+.doska1 {
+  width: 1440px;
+  height: 42.61px;
+  background-color: #8a6f64;
+  margin-top: 420px;
+  position: absolute;
+  z-index: 2;
+}
+.doska2 {
+  width: 1440px;
+  height: 42.61px;
+  background-color: #8a6f64;
+  margin-top: 499px;
+  position: absolute;
+  z-index: 2;
+}
+.doska3 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 204.47px;
+  z-index: 1;
+  margin-left: 86px;
+  margin-top: 380px;
+}
+.doska4 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 204.47px;
+  z-index: 1;
+  margin-left: 321px;
+  margin-top: 380px;
+}
+.doska5 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 300px;
+  z-index: 1;
+  margin-left: 532px;
+  margin-top: 285px;
+}
+.doska6 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 300px;
+  z-index: 1;
+  margin-left: 832px;
+  margin-top: 285px;
+}
+.doska7 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 204.47px;
+  z-index: 1;
+  margin-left: 1042px;
+  margin-top: 380px;
+}
+.doska8 {
+  background-color: #8a6f64;
+  position: absolute;
+  width: 51.5px;
+  height: 204.47px;
+  z-index: 1;
+  margin-left: 1278px;
+  margin-top: 380px;
+}
+.cows {
+  position: absolute;
+  z-index: 2;
+  margin-top: 310px;
+}
+.flowers {
+  margin-top: 510px;
+  position: absolute;
+  margin-left: 40px;
+}
+.section3 {
+  width: 1440px;
+  position: relative;
+  height: 930px;
+  background-color: #09abd4;
+  z-index: -1;
+}
+.doska9 {
+  background-color: #8a6f64;
+  width: 1340px;
+  height: 63px;
+  position: absolute;
+  z-index: 0;
+  margin-top: 200px;
+  border-radius: 31.5px;
+  margin-left: 50px;
+}
+.doskabig {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 375px;
+  z-index: 2;
+}
+.cloud1 {
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 470px;
+  z-index: 1;
+}
+
+.cloud2 {
+  position: absolute;
+  margin-left: 935px;
+  margin-top: 285px;
+  z-index: 1;
+}
+.text1 {
+  position: absolute;
+  font-size: 64px;
+  font-weight: 600;
+  margin-top: 385px;
+  margin-left: 550px;
+  color: #fffbe6;
+  z-index: 4;
+}
+.text2 {
+  position: absolute;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 490px;
+  margin-left: 400px;
+  color: #fffbe6;
+  z-index: 4;
+  max-width: 40ch;
+  line-height: 1.2;
+}
+.text3 {
+  position: absolute;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 675px;
+  margin-left: 400px;
+  color: #fffbe6;
+  z-index: 4;
+  max-width: 35ch;
+  line-height: 1.2;
+}
+.section4 {
+  background-color: #fffbe6;
+  width: 1440px;
+  height: 1192px;
+  position: relative;
+}
+.grasssmall {
+  position: absolute;
+  margin-top: -90px;
+}
+.circlemolochny1 {
+  position: absolute;
+  z-index: 2;
+  margin-top: 30px;
+}
+.bayan {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 200px;
+}
+.doska10 {
+  background-color: #8a6f64;
+  width: 1045px;
+  border-radius: 49.5px;
+  height: 98.99px;
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 1030px;
+  z-index: 2;
+}
+.span1 {
+  font-size: 48px;
+  color: #fffbe6;
+  padding: 60px;
+  padding-top: 25px;
+  position: absolute;
+  font-weight: 900;
+  font-style: italic;
+}
+.span2 {
+  font-size: 48px;
+  color: #fffbe6;
+  padding: 30px;
+  padding-top: 25px;
+  position: absolute;
+  padding-left: 275px;
+}
+.span3 {
+  font-size: 48px;
+  color: #fffbe6;
+  padding: 30px;
+  padding-top: 25px;
+  position: absolute;
+  padding-left: 405px;
+  font-weight: 900;
+}
+.span4 {
+  font-size: 48px;
+  color: #fffbe6;
+  padding: 30px;
+  padding-top: 25px;
+  position: absolute;
+  padding-left: 645px;
+  font-weight: 400;
+}
+.span5 {
+  font-size: 48px;
+  color: #fffbe6;
+  padding: 30px;
+  padding-top: 25px;
+  position: absolute;
+  padding-left: 679px;
+  font-weight: 600;
+}
+.span6 {
+  font-size: 48px;
+  color: #fffbe6;
+  padding: 30px;
+  padding-top: 25px;
+  position: absolute;
+  padding-left: 843px;
+  font-weight: 400;
+  font-style: italic;
+}
+.section5 {
+  position: absolute;
+  width: 1440px;
+  background-color: #09abd4;
+  height: 500px;
+}
+.circlemolochny2 {
+  position: absolute;
+  z-index: 1;
+  margin-top: 1050px;
+}
