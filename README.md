@@ -4,12 +4,11 @@ Vollkorn
 
 ## Ссылка на сайт
 
-[https://ваш-логин.github.io/название-репозитория/]
+[https://lolchikkk.github.io/Vollkorn/]
 
 ## Скриншот
 
-![Описание скриншота](images/image.png)
-images/image.png
+![Главная страница](images/image.png)
 
 ## Автор
 
